@@ -8,7 +8,7 @@ import (
 
 	stdruntime "runtime"
 
-	"github.com/quickjs-go/quickjs-go"
+	"github.com/zswDev/quickjs-go"
 )
 
 type callback func(string) string
